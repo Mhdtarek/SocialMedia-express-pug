@@ -1,3 +1,9 @@
-# Lowdb + ExpressJS Example
+# simple express + pug app
 
-Example code for [this video](https://youtu.be/SY1RtzoR42g)
+Run: npm run dev
+
+tech: 
+- express
+- lowdb
+- nodejs
+- pug
