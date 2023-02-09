@@ -1,6 +1,8 @@
 # simple express + pug app
 
-Run: npm run dev
+Run: node index.js
+
+Simple "socialmedia" app
 
 tech: 
 - express
